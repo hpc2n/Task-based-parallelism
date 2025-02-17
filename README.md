@@ -30,4 +30,6 @@ Task-based parallelism in scientific computing
 
 **Recordings:** https://www.youtube.com/playlist?list=PL6jMHLEmPVLyVIp67mW1cRj0xbL-6iFMY
 
+**Evaluation:** [Results are here](https://github.com/hpc2n/Task-based-parallelism/blob/ebdd57e43fd74b8a0d04d9ff9d6bbebd049f761f/Evaluation-Task-based-parallelism-in-scientific-computing.pdf)
+
 **Registration:** https://www.hpc2n.umu.se/events/courses/task-based-parallelism-spring-2021
